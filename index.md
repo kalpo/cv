@@ -7,7 +7,7 @@ Passionate about social responsibility
 
 <div id="webaddress">
 <a href="mailto:&#103;&#104;&#099;&#118;&#064;&#097;&#115;&#108;&#097;&#046;&#101;&#109;&#097;&#105;&#108;">&#103;&#104;&#099;&#118;&#064;&#097;&#115;&#108;&#097;&#046;&#101;&#109;&#097;&#105;&#108;</a>
-| <a href="github.com/kalpo">Github page</a>
+| <a href="https://github.com/kalpo">Github page</a>
 </div>
 
 ## Languages
