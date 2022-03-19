@@ -38,7 +38,7 @@ __Health Care Assistant (Bank)__
 ### Pro-bono
 `Jun 2018 - Aug 2020`
 __Trustee__ and __Health and Social Care Lead__
-- *[UTSAAH](https://utsaah.org.uk)* `2 yrs 3 mos`
+- *[UTSAAH](http://utsaah.org.uk)* `2 yrs 3 mos`
 - I worked an average of 20h a month leading the Health and Social care efforts of the charity. My responsibilities included: management of diverse projects with numerous partnering organisations in India, field work research development and implementation, fundraising, networking and mentoring. I also still maintain their IT infrastructure.
 - __Key Skills:__ Networking, research, project management
 
@@ -80,7 +80,7 @@ __Trustees Award__, *First Aid Africa*, Edinburgh, Scotland
 `May 2019`
 __Towards Health: An overview of the health needs in the upper Tons Valley__ 
 - Gon Asla and Rebecca Paxton
-- *[UTSAAH](http://lalalala.com)*, New Castle, UK, May 2017
+- *[UTSAAH](http://utsaah.org.uk)*, New Castle, UK, May 2017
 
 
 <!-- ### Footer
