@@ -2,12 +2,13 @@
 layout: cv
 title: Gon Asla's CV
 ---
+
 # Gon Asla
 Passionate about social responsibility
 
 <div id="webaddress">
 <a href="mailto:&#103;&#104;&#099;&#118;&#064;&#097;&#115;&#108;&#097;&#046;&#101;&#109;&#097;&#105;&#108;">&#103;&#104;&#099;&#118;&#064;&#097;&#115;&#108;&#097;&#046;&#101;&#109;&#097;&#105;&#108;</a>
-| <a href="https://github.com/kalpo">Github page</a>
+<em>|</em> <a href="https://github.com/kalpo">Github page</a>
 </div>
 
 ## Languages
@@ -20,7 +21,7 @@ __English__: Native (C2),  __Spanish__: Native (C2),  __Dutch__: Limited (B1) - 
 `Jan 2019 - May 2021`
 __Staff Registered Nurse__ 
 - *NHS Lothian*  `2 yrs 5 mos`
-- In a collaborative environment, we planned and delivered care for patients in a 22-bedded accute oncology ward. 
+- In a collaborative environment, I planned and delivered care for patients in a 22-bedded accute oncology ward. 
 - __Key Skills:__ Time management, teamwork, communication and compassion.
 - __Key Nursing Skills:__ person-centered care (PCC), venupuncture, cannulation, catheterization, management of Central Venous Access Devices, administration of cytotoxic drugs, cytotoxicity screaning,  delivery of personal care.
 
@@ -32,7 +33,7 @@ __Staff Registered Nurse (Bank)__
 `Sep 2017 - Jan 2019`
 __Health Care Assistant (Bank)__
 - *NHS Lothian* `1 yrs 5 mos`
-- While working towards my nursing registration I work providing personal care for patients in numerous different wards and specialities. 
+- While working towards my nursing registration I worked providing personal care for patients in numerous different wards and specialities. 
 - __Key Skills:__ PCC, customer care and support, teamwork.
 
 ### Pro-bono
@@ -45,7 +46,7 @@ __Trustee__ and __Health and Social Care Lead__
 `Jan 2017 - Oct 2019`
 __Research and Volunteer Innovation Lead__
 - *First Aid Africa* `2 yrs 10 mos`
-- In collaboration with various teams that I helped create, we: Designed and implemented a quality control methodology to evaluate student knowledge retention rates; Created a student society that fundraised 15,000£ in order to train 10 first aid instructors that went to provide free certified first aid courses in rural areas of Tanzania, Uganda and Malawi; formed a uk-based group of film-makers that produced content for fundraising, outreach and training.
+- In collaboration with various teams that I helped create, I: Designed and implemented a quality control methodology to evaluate student knowledge retention rates; Created a student society that fundraised 15,000£ in order to train 10 first aid instructors that went to provide free certified first aid courses in rural areas of Tanzania, Uganda and Malawi; formed a uk-based group of film-makers that produced content for fundraising, outreach and training.
 - __Key Skills:__ Research, mentoring, project management
 
 `Apr 2017 - Jun 2019`
@@ -69,9 +70,11 @@ __Cert.HE (Artificiall Intelligence and Computer Science)__
 
 `Mar 2017`
 __Society Scarlet__, *Edinburgh Napier University*, Edinburgh, Scotland
+- "To receive a Society Scarlet, a Society Member must have made a significant contribution to their society"
 
 `Dec 2016`
 __Trustees Award__, *First Aid Africa*, Edinburgh, Scotland
+- "For showing dedication to the charity's work in the UK and commitment to the continual improvement of the organisation."
 
 
 
@@ -81,11 +84,6 @@ __Trustees Award__, *First Aid Africa*, Edinburgh, Scotland
 __Towards Health: An overview of the health needs in the upper Tons Valley__ 
 - Gon Asla and Rebecca Paxton
 - *[UTSAAH](http://utsaah.org.uk)*, New Castle, UK, May 2017
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 <!-- Line down the middle to know where the middle is! 
 <hr class="line" style="border-left: 1px solid #4b42f5;height: 100%; position: absolute;left: 50%;margin-left: -1px;top: 0;">-->
