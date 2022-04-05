@@ -60,6 +60,7 @@ I was in the organising commity of the 16 days of action against gender based vi
 `2015 - 2018`
 __BN Adult Nursing (with Distinction)__
 - Edinburgh Napier University
+Includes 1500+ hrs of nursing placements
 
 `2013`
 __Cert.HE (Artificiall Intelligence and Computer Science)__
